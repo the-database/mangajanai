@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=the-database&project=MangaJaNai&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # MangaJaNai
 
 [![Discord](https://img.shields.io/discord/1121653618173546546?label=Discord&logo=Discord&logoColor=white)](https://discord.gg/EeFfZUBvxj)
